@@ -6,7 +6,7 @@ Topic : QR Code Reader Optimization for Low Resource Embedded System
 Purpose : The purpose of the project is to develop a QR code reader with low memory usage and short execution time for a AR glass based on a low resource embedded system. The AR glass make people examine the decode result of a QR code.        
                
 ## Program Version Comparison
-![Program Comparison](https://github.com/Steven-YiTseWu/Low-Resource-QR-Code-Reader/blob/main/Report/Program_Comparison.png)
+![Program Comparison](https://github.com/Steven-YiTseWu/Low-Resource-QR-Code-Reader/blob/main/Program_Comparison.png)
                
 ## Environment Requirement
 - zxing-cpp : [nu-book/zxing-cpp](https://github.com/nu-book/zxing-cpp)
