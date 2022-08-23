@@ -9,7 +9,7 @@ Purpose : The purpose of the project is to develop a QR code reader with low mem
 - zxing-cpp : [nu-book/zxing-cpp](https://github.com/nu-book/zxing-cpp)
 - libpng : [glennrp/libpng](https://github.com/glennrp/libpng)
 - Valgrind : [Valgrind Home](https://valgrind.org/)
-- sub : [nothings/stb](https://github.com/nothings/stb)
+- stb : [nothings/stb](https://github.com/nothings/stb)
 - lodepng : [lvandeve/lodepng](https://github.com/lvandeve/lodepng)
 - CImg : [GreycLab/CImg](https://github.com/GreycLab/CImg)
 
