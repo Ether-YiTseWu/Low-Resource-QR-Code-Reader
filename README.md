@@ -6,7 +6,7 @@ Purpose : The purpose of the project is to develop a QR code reader with low mem
                
 ## Environment Requirement
 ### The Final Program Version : 
-- zxing-cpp : nu-book/zxing-cpp[!https://github.com/nu-book/zxing-cpp]
+- zxing-cpp : [nu-book/zxing-cpp](https://github.com/nu-book/zxing-cpp)
 - libpng
 - Valgrind
 
