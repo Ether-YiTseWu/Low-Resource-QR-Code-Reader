@@ -20,4 +20,7 @@ The program is run on Raspberry 4 2GB
 
 **Tips : Use pkg-config tool to compile programs**
 
-## Some Useful Links
+## Some Useful Website Links
+- [A simple libpng example program](http://zarb.org/~gc/html/libpng.html)
+- [pkg-config Tool](https://www.cntofu.com/book/46/linux_system/ru_he_shi_yongpkg_-_config_gong_ju_bian_yi_lian_ji.md)
+- [png_read_info and png_read_image](https://www.twblogs.net/a/5e4e99c8bd9eee101e830ae6)
